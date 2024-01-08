@@ -1,0 +1,3 @@
+# Venus: a[AU] & a_dot[AU/Cy] | e[#] & e_dot[1/Cy] | i[Deg] & i_dot[Deg/Cy] | Omega[Deg] & Omega_dot[Deg/Cy] | omega[Deg] & omega_dot[Deg/Cy] | L[Deg] & L_dot[Deg/Cy]
+0.72333566 0.00677672  3.39467605  76.67984255 131.60246718 181.97909950
+0.00000390 -0.00004107 -0.00078890 -0.27769418 0.00268329   58517.81538729

@@ -1,0 +1,3 @@
+# Mercury: a[AU] & a_dot[AU/Cy] | e[#] & e_dot[1/Cy] | i[Deg] & i_dot[Deg/Cy] | Omega[Deg] & Omega_dot[Deg/Cy] | omega[Deg] & omega_dot[Deg/Cy] | L[Deg] & L_dot[Deg/Cy]
+0.38709927 0.20563593 7.00497902  48.33076593 77.45779628 252.25032350
+0.00000037 0.00001906 -0.00594749 -0.12534081 0.16047689  149472.67411175

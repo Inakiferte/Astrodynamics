@@ -1,0 +1,3 @@
+# Pluto: a[AU] & a_dot[AU/Cy] | e[#] & e_dot[1/Cy] | i[Deg] & i_dot[Deg/Cy] | Omega[Deg] & Omega_dot[Deg/Cy] | omega[Deg] & omega_dot[Deg/Cy] | L[Deg] & L_dot[Deg/Cy]
+39.48211675 0.24882730 17.14001206 110.30393684 224.06891629 283.92903833
+-0.00031596 0.00005170 0.00004818  -0.01183482  -0.04062942  145.20780515
