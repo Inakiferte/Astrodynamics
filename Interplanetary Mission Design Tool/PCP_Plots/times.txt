@@ -1,0 +1,7 @@
+Mercury : 2000 x 700 | 142.571541 seconds.
+Venus   : 2000 x 700 | 165.083440 seconds.
+Mars    : 2000 x 700 | 330.045352 seconds.
+Jupiter : 2000 x 2000 | 1126.572739 seconds.
+Saturn  : 2000 x 3000 | 2054.505766 seconds.
+Uranus  : 2000 x 10000 | 5520.419283 seconds.
+Neptune : 2000 x 10000 | 16744.968047 seconds.
