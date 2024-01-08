@@ -1,0 +1,12 @@
+=======================================================
+Cassini's Grand Finale Right Ascension and Declination.
+Master in Space and Aeronautical Engineering.
+Astrodynamics Course, Assignment 1.
+By: Jorge Simón, Javier Sanchez & Iñaki Fernandez.
+=======================================================
+
+=======================================================
+Results for the right ascension and declination:
+ Right ascension alpha: 17 h 23 min 19.380382 s.
+ Right declination delta: -22° 9' 1054.620220''.
+=======================================================
